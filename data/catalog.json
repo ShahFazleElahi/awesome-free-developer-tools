@@ -1,0 +1,422 @@
+[
+  {
+    "category": "Editors",
+    "name": "VS Code",
+    "url": "https://code.visualstudio.com/",
+    "access": "Free distribution; separate open-source Code - OSS project",
+    "use": "General-purpose editor and debugger"
+  },
+  {
+    "category": "Editors",
+    "name": "Neovim",
+    "url": "https://neovim.io/",
+    "access": "Open source",
+    "use": "Terminal editor with extensibility"
+  },
+  {
+    "category": "Editors",
+    "name": "VSCodium",
+    "url": "https://vscodium.com/",
+    "access": "Open source",
+    "use": "Community builds of Code - OSS"
+  },
+  {
+    "category": "Editors",
+    "name": "Helix",
+    "url": "https://helix-editor.com/",
+    "access": "Open source",
+    "use": "Modal editor with language integrations"
+  },
+  {
+    "category": "Editors",
+    "name": "Zed",
+    "url": "https://zed.dev/",
+    "access": "Open source editor; hosted services may cost",
+    "use": "Collaborative code editing"
+  },
+  {
+    "category": "Version control",
+    "name": "Git",
+    "url": "https://git-scm.com/",
+    "access": "Open source",
+    "use": "Track source changes"
+  },
+  {
+    "category": "Version control",
+    "name": "GitHub CLI",
+    "url": "https://cli.github.com/",
+    "access": "Open source",
+    "use": "Manage GitHub issues and repositories from terminal"
+  },
+  {
+    "category": "Version control",
+    "name": "Lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "access": "Open source",
+    "use": "Interactive terminal Git interface"
+  },
+  {
+    "category": "Version control",
+    "name": "Delta",
+    "url": "https://github.com/dandavison/delta",
+    "access": "Open source",
+    "use": "Readable syntax-highlighted diffs"
+  },
+  {
+    "category": "Version control",
+    "name": "Difftastic",
+    "url": "https://difftastic.wilfred.me.uk/",
+    "access": "Open source",
+    "use": "Syntax-aware code diffs"
+  },
+  {
+    "category": "Terminal",
+    "name": "curl",
+    "url": "https://curl.se/",
+    "access": "Open source",
+    "use": "HTTP requests and file transfers"
+  },
+  {
+    "category": "Terminal",
+    "name": "jq",
+    "url": "https://jqlang.org/",
+    "access": "Open source",
+    "use": "Query and transform JSON"
+  },
+  {
+    "category": "Terminal",
+    "name": "ripgrep",
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "access": "Open source",
+    "use": "Fast recursive code search"
+  },
+  {
+    "category": "Terminal",
+    "name": "fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "access": "Open source",
+    "use": "Interactive fuzzy selection"
+  },
+  {
+    "category": "Terminal",
+    "name": "fd",
+    "url": "https://github.com/sharkdp/fd",
+    "access": "Open source",
+    "use": "Find files and directories"
+  },
+  {
+    "category": "Terminal",
+    "name": "bat",
+    "url": "https://github.com/sharkdp/bat",
+    "access": "Open source",
+    "use": "Read files with syntax highlighting"
+  },
+  {
+    "category": "Terminal",
+    "name": "tmux",
+    "url": "https://github.com/tmux/tmux",
+    "access": "Open source",
+    "use": "Persistent terminal sessions"
+  },
+  {
+    "category": "Terminal",
+    "name": "ShellCheck",
+    "url": "https://www.shellcheck.net/",
+    "access": "Open source",
+    "use": "Find shell scripting mistakes"
+  },
+  {
+    "category": "Terminal",
+    "name": "Starship",
+    "url": "https://starship.rs/",
+    "access": "Open source",
+    "use": "Custom shell prompt"
+  },
+  {
+    "category": "API development",
+    "name": "Bruno",
+    "url": "https://www.usebruno.com/",
+    "access": "Open-source core; optional paid features",
+    "use": "File-based API request collections"
+  },
+  {
+    "category": "API development",
+    "name": "HTTPie CLI",
+    "url": "https://httpie.io/cli",
+    "access": "Open source",
+    "use": "Readable terminal HTTP requests"
+  },
+  {
+    "category": "API development",
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io/",
+    "access": "Open-source core; hosted plans vary",
+    "use": "Browser API testing"
+  },
+  {
+    "category": "API development",
+    "name": "Swagger Editor",
+    "url": "https://editor.swagger.io/",
+    "access": "Open source",
+    "use": "Edit and validate OpenAPI specs"
+  },
+  {
+    "category": "API development",
+    "name": "Mockoon",
+    "url": "https://mockoon.com/",
+    "access": "Open-source desktop/CLI; optional paid cloud",
+    "use": "Mock HTTP endpoints locally"
+  },
+  {
+    "category": "API development",
+    "name": "Insomnia",
+    "url": "https://insomnia.rest/",
+    "access": "Free core; plans vary",
+    "use": "Design and test API requests"
+  },
+  {
+    "category": "Databases",
+    "name": "PostgreSQL",
+    "url": "https://www.postgresql.org/",
+    "access": "Open source",
+    "use": "Relational database"
+  },
+  {
+    "category": "Databases",
+    "name": "SQLite",
+    "url": "https://sqlite.org/",
+    "access": "Public domain",
+    "use": "Embedded database"
+  },
+  {
+    "category": "Databases",
+    "name": "DBeaver Community",
+    "url": "https://dbeaver.io/",
+    "access": "Open source community edition",
+    "use": "Database administration"
+  },
+  {
+    "category": "Databases",
+    "name": "Beekeeper Studio Community",
+    "url": "https://www.beekeeperstudio.io/",
+    "access": "Free community edition",
+    "use": "SQL client"
+  },
+  {
+    "category": "Databases",
+    "name": "DuckDB",
+    "url": "https://duckdb.org/",
+    "access": "Open source",
+    "use": "Local analytical SQL"
+  },
+  {
+    "category": "Databases",
+    "name": "Prisma ORM",
+    "url": "https://www.prisma.io/orm",
+    "access": "Open source ORM",
+    "use": "Type-safe database access"
+  },
+  {
+    "category": "Databases",
+    "name": "Neon",
+    "url": "https://neon.com/",
+    "access": "Hosted free tier; quotas apply",
+    "use": "Serverless PostgreSQL"
+  },
+  {
+    "category": "Testing",
+    "name": "Playwright",
+    "url": "https://playwright.dev/",
+    "access": "Open source",
+    "use": "Browser end-to-end testing"
+  },
+  {
+    "category": "Testing",
+    "name": "Vitest",
+    "url": "https://vitest.dev/",
+    "access": "Open source",
+    "use": "JavaScript and TypeScript tests"
+  },
+  {
+    "category": "Testing",
+    "name": "Jest",
+    "url": "https://jestjs.io/",
+    "access": "Open source",
+    "use": "JavaScript unit testing"
+  },
+  {
+    "category": "Testing",
+    "name": "pytest",
+    "url": "https://docs.pytest.org/",
+    "access": "Open source",
+    "use": "Python tests"
+  },
+  {
+    "category": "Testing",
+    "name": "k6",
+    "url": "https://grafana.com/oss/k6/",
+    "access": "Open source CLI",
+    "use": "Load test owned or authorized services"
+  },
+  {
+    "category": "Code quality",
+    "name": "ESLint",
+    "url": "https://eslint.org/",
+    "access": "Open source",
+    "use": "JavaScript linting"
+  },
+  {
+    "category": "Code quality",
+    "name": "Prettier",
+    "url": "https://prettier.io/",
+    "access": "Open source",
+    "use": "Consistent formatting"
+  },
+  {
+    "category": "Code quality",
+    "name": "Biome",
+    "url": "https://biomejs.dev/",
+    "access": "Open source",
+    "use": "JavaScript linting and formatting"
+  },
+  {
+    "category": "Code quality",
+    "name": "Ruff",
+    "url": "https://docs.astral.sh/ruff/",
+    "access": "Open source",
+    "use": "Python linting and formatting"
+  },
+  {
+    "category": "Code quality",
+    "name": "pre-commit",
+    "url": "https://pre-commit.com/",
+    "access": "Open source",
+    "use": "Run checks before commits"
+  },
+  {
+    "category": "DevOps",
+    "name": "Podman",
+    "url": "https://podman.io/",
+    "access": "Open source",
+    "use": "Container management"
+  },
+  {
+    "category": "DevOps",
+    "name": "Docker Engine",
+    "url": "https://docs.docker.com/engine/",
+    "access": "Open source engine; Desktop terms differ",
+    "use": "Build and run containers"
+  },
+  {
+    "category": "DevOps",
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io/",
+    "access": "Open source",
+    "use": "Container orchestration"
+  },
+  {
+    "category": "DevOps",
+    "name": "GitHub Actions",
+    "url": "https://docs.github.com/actions",
+    "access": "Hosted quotas and terms apply",
+    "use": "Automated CI/CD workflows"
+  },
+  {
+    "category": "DevOps",
+    "name": "Vercel",
+    "url": "https://vercel.com/",
+    "access": "Hobby tier subject to terms and limits",
+    "use": "Deploy compatible personal projects"
+  },
+  {
+    "category": "DevOps",
+    "name": "OpenTofu",
+    "url": "https://opentofu.org/",
+    "access": "Open source",
+    "use": "Infrastructure as code"
+  },
+  {
+    "category": "Security",
+    "name": "Gitleaks",
+    "url": "https://github.com/gitleaks/gitleaks",
+    "access": "Open source",
+    "use": "Detect potential committed secrets"
+  },
+  {
+    "category": "Security",
+    "name": "Trivy",
+    "url": "https://trivy.dev/",
+    "access": "Open source",
+    "use": "Scan dependencies and containers"
+  },
+  {
+    "category": "Security",
+    "name": "OWASP ZAP",
+    "url": "https://www.zaproxy.org/",
+    "access": "Open source",
+    "use": "Test authorized web applications"
+  },
+  {
+    "category": "Security",
+    "name": "Semgrep Community Edition",
+    "url": "https://semgrep.dev/docs/",
+    "access": "Community engine; hosted features vary",
+    "use": "Static code analysis"
+  },
+  {
+    "category": "Documentation",
+    "name": "Mermaid",
+    "url": "https://mermaid.js.org/",
+    "access": "Open source",
+    "use": "Text-based diagrams"
+  },
+  {
+    "category": "Documentation",
+    "name": "MkDocs",
+    "url": "https://www.mkdocs.org/",
+    "access": "Open source",
+    "use": "Markdown documentation sites"
+  },
+  {
+    "category": "Documentation",
+    "name": "Docusaurus",
+    "url": "https://docusaurus.io/",
+    "access": "Open source",
+    "use": "Versioned project documentation"
+  },
+  {
+    "category": "Documentation",
+    "name": "Pandoc",
+    "url": "https://pandoc.org/",
+    "access": "Open source",
+    "use": "Convert document formats"
+  },
+  {
+    "category": "Documentation",
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com/",
+    "access": "Open-source editor; optional paid services",
+    "use": "Draw system diagrams"
+  },
+  {
+    "category": "Local AI",
+    "name": "Ollama",
+    "url": "https://ollama.com/",
+    "access": "Free local runtime; model licenses vary",
+    "use": "Run compatible models locally"
+  },
+  {
+    "category": "Local AI",
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "access": "Open source",
+    "use": "Local model inference"
+  },
+  {
+    "category": "Local AI",
+    "name": "Hugging Face Hub",
+    "url": "https://huggingface.co/",
+    "access": "Free access varies by model and service",
+    "use": "Discover models and datasets"
+  }
+]
