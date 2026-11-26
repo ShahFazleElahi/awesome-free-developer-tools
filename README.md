@@ -1,6 +1,6 @@
 # Awesome Free Developer Tools
 A practical collection of tools for everyday software engineering. Free access is not the same as an open-source license; each entry distinguishes them.
-**60 entries** • JSON dataset • Offline search CLI
+**61 entries** • JSON dataset • Offline search CLI
 ## Contents
 - [Editors](#editors)
 - [Version control](#version-control)
@@ -93,6 +93,7 @@ A practical collection of tools for everyday software engineering. Free access i
 | [GitHub Actions](https://docs.github.com/actions) | Hosted quotas and terms apply | Automated CI/CD workflows |
 | [Vercel](https://vercel.com/) | Hobby tier subject to terms and limits | Deploy compatible personal projects |
 | [OpenTofu](https://opentofu.org/) | Open source | Infrastructure as code |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Open source (MIT); self-hosted | Track website uptime, response times, TLS and domain expiry |
 
 ## Security
 | Tool | Access model | Best for |

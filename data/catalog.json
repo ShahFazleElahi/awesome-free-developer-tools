@@ -336,6 +336,13 @@
     "use": "Infrastructure as code"
   },
   {
+    "category": "DevOps",
+    "name": "SiteWatcher",
+    "url": "https://github.com/NikKurkov/sitewatcher",
+    "access": "Open source (MIT); self-hosted",
+    "use": "Track website uptime, response times, TLS and domain expiry"
+  },
+  {
     "category": "Security",
     "name": "Gitleaks",
     "url": "https://github.com/gitleaks/gitleaks",
